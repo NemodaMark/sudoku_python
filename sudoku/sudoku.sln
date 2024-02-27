@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sudoku", "sudoku\sudoku.pyproj", "{ED199EF3-B02B-49BE-ADF3-D070E2AC3900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED199EF3-B02B-49BE-ADF3-D070E2AC3900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED199EF3-B02B-49BE-ADF3-D070E2AC3900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0123D16-CE1F-49C9-A62E-EF3273E72957}
+	EndGlobalSection
+EndGlobal
